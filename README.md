@@ -4,12 +4,13 @@ I am a software developer who has close to 2 decades in the software industry. I
 
 - 🔭 **I’m currently working on:** Building up my problem solving skills using LeetCode.
 
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/keshav_bhashyam)
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/ke-b)
     
 - 🌱 **I’m currently learning:**
   - AWS and its ecosystem. Have worked with AWS services for over 5 yrs, but there is always something new to learn. 
   
 - 🌱 **I’m looking forward to learn:**
+  - More Data Engineering concepts
   - Rust programming language.
   - Game development.
   
